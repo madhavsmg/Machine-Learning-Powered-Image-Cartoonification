@@ -48,10 +48,10 @@ The project also includes code for using `Tkinter` to browse and load images fro
 ## Example Outputs
 
 ### Original Image
-![Original Image](path_to_original_image.jpg)
+![Original Image](original_image.jpg)
 
 ### Cartoonified Image
-![Cartoonified Image](path_to_cartoonified_image.jpg)
+![Cartoonified Image](cartoonified_image.jpeg)
 
 ## Process Workflow
 
